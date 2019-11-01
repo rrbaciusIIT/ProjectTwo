@@ -1,6 +1,6 @@
 #dashboard{
     text-align: center;
-    color: black;
+    color: #E4FDE1;
     padding-bottom: 5%;
 }
 
@@ -8,4 +8,19 @@
     text-align: center;
     font-size: 50px;
     padding-bottom: 5%;
+    color: #E4FDE1;
+
+
+}
+
+p{
+    font-size: 12px;
+    text-align: center;
+    color: #E4FDE1;
+
+}
+
+body{
+    background-color: #114B5F;
+    color: white;
 }
