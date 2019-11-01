@@ -9,14 +9,19 @@
     font-size: 50px;
     padding-bottom: 5%;
     color: #E4FDE1;
-
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 
 }
 
 p{
-    font-size: 12px;
+    font-size: 24px;
     text-align: center;
     color: #E4FDE1;
+    background-color:#363635;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
 
@@ -24,3 +29,4 @@ body{
     background-color: #114B5F;
     color: white;
 }
+
