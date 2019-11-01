@@ -1,4 +1,11 @@
-#resumeHeading{
+#dashboard{
     text-align: center;
     color: black;
+    padding-bottom: 5%;
+}
+
+.dashItems{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 5%;
 }
