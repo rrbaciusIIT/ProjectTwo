@@ -1,0 +1,41 @@
+#dashboard{
+    text-align: center;
+    color: #E4FDE1;
+    padding-bottom: 5%;
+}
+
+.dashItems{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 5%;
+    color: #E4FDE1;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+
+}
+
+p{
+    font-size: 15px;
+    text-align: center;
+    color: #E4FDE1;
+    background-color:#363635;
+    padding: 30px 120px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+#desc{
+    font-size: 20px;
+    text-align: center;
+    color: #E4FDE1;
+    background-color:#363635;
+    padding: 75px 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+body{
+    background-color: #114B5F;
+    color: white;
+}
+
+
+
