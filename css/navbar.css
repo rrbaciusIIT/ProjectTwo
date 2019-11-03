@@ -116,7 +116,7 @@ a {
 
 /* 48em = 768px */
 
-@media (min-width: 48em) {
+@media (min-width: 1200px) {
     .header li {
         float: left;
     }
