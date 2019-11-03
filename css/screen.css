@@ -28,7 +28,7 @@ body{
 }
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
     max-width: 800px;
     margin: auto;
     color: white;
@@ -37,8 +37,9 @@ body{
 }
 
 .price {
-    color: grey;
+    color: #173753;
     font-size: 22px;
+    padding-bottom: 50px;
 }
 
 .card button {
@@ -46,11 +47,11 @@ body{
     outline: 0;
     padding: 12px;
     color: white;
-    background-color: #000;
+    background-color: #173753;
     text-align: center;
     cursor: pointer;
     width: 100%;
-    font-size: 18px;
+    font-size: 25px;
 }
 
 .card button:hover {
