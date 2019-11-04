@@ -28,6 +28,26 @@ body{
 }
 
 .button2{
+     background-color: #173753; /* Green */
+     border: none;
+     color: white;
+     padding: 60px 80px;
+     text-align: center;
+     display: inline-block;
+     font-size: 40px;
+     cursor: pointer;
+     border-radius: 5px;
+     -webkit-transition-duration: 0.4s; /* Safari */
+     transition-duration: 0.4s;
+     position:center;
+     width: 65%;
+     margin-left: 10%;
+     margin-top: 150px;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+ }
+
+.button3{
     background-color: #173753; /* Green */
     border: none;
     color: white;
@@ -36,15 +56,14 @@ body{
     display: inline-block;
     font-size: 40px;
     cursor: pointer;
-    border-radius: 5px;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     position:center;
-    width: 65%;
+    width: 81%;
     margin-left: 10%;
-    margin-top: 150px;
+    margin-top: 100px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-
+    border-radius: 8px;
 }
 
 #featured{
