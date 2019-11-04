@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <link rel="stylesheet" href="css/screen.css">
+    <link rel="stylesheet" href="css/checkout.css">
     <link rel="stylesheet" href="css/navbar.css">
 </head>
 <header class="header">
@@ -16,6 +17,22 @@
         <li><a href="checkout.html">CHECKOUT</a></li>
     </ul>
 </header>
+<body>
+<div class="container">
+    <form action="/action_page.php">
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+        <select id="country" name="country">
+            <option value="australia">Australia</option>
+            <option value="canada">Canada</option>
+            <option value="usa">USA</option>
+        </select>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+        <input type="submit" value="Place Order">
+    </form>
+</div>
+
+</body>
 <footer>
     <a href="tel:+2244250288">
         <button class="button button1">Contact Us!</button>
