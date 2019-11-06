@@ -20,22 +20,16 @@
 <body>
 <div class="container">
     <form action="/action_page.php">
-        <input type="text" id="fname" name="firstname" placeholder="Your name..">
-        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-        <select id="country" name="country">
-            <option value="australia">Australia</option>
-            <option value="canada">Canada</option>
-            <option value="usa">USA</option>
-        </select>
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-        <input type="submit" value="Place Order">
+        <input type="text" id="fname" name="firstname" placeholder="First Name">
+        <input type="text" id="lname" name="lastname" placeholder="Last Name">
+        <input type="text" id="lname" name="lastname" placeholder="Phone Number">
+        <input type="text" id="lname" name="lastname" placeholder="Email Address">
+        <input type="text" id="lname" name="lastname" placeholder="Mailing Address">
+        <textarea id="subject" name="subject" placeholder="Selected Items Listen Below:" style="height:300px"></textarea>
+        <input type="submit" formaction="postOrder.html" value="Place Order">
     </form>
 </div>
-
 </body>
 <footer>
-    <a href="tel:+2244250288">
-        <button class="button button1">Contact Us!</button>
-    </a>
 </footer>
 </html>
