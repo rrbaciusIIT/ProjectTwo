@@ -45,7 +45,7 @@ body{
      margin-top: 150px;
      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 
- }
+}
 
 .button3{
     background-color: #173753; /* Green */
@@ -64,6 +64,8 @@ body{
     margin-top: 100px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     border-radius: 8px;
+    margin-bottom: 80px;
+
 }
 .button4{
     background-color: #173753; /* Green */
